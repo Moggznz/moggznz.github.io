@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Moggz"
-  avatar : "/assets/images/squall.png"
+  avatar : "/assets/images/squall.PNG"
 
 defaults:
   # _posts
