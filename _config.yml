@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Moggz"
+  name   : "moggz"
   avatar : "/assets/images/squall.PNG"
 
 defaults:
