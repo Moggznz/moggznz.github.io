@@ -7,7 +7,21 @@ tags:
   - Malware Analysis
 ---
 
-Testing github function
+## Intro
+Firstly, this post is heavily inspired by [Pr0xylife](https://twitter.com/pr0xylife), [Malware Guy](https://twitter.com/themalwareguy), and [Phage](https://twitter.com/phage_nz). I've always been really interested in their analysis and the subsequent good deeds contributed to the infosec community. 
 
-Testing again
+What I wanted to show here is some basic, somewhat manual malware analysis of a Qakbot sample. The sample was seen itw and submitted via [Cryptolaemus](https://twitter.com/Cryptolaemus1),which Pr0xylife also works through. The original post detailing execution flow, samples, and IOCs is here: https://twitter.com/Cryptolaemus1/status/1653433633821138947
+
+
+## Setup
+### VMs
+I'm going to be running a couple VMs for the analysis here:
+
+1. [Flare VM](https://github.com/mandiant/flare-vm)
+2. [Remnux](https://docs.remnux.org/install-distro/get-virtual-appliance)
+
+## Sample
+
+Browse to [Malware Bazaar](https://bazaar.abuse.ch/) and grab the sample we're after: https://bazaar.abuse.ch/sample/c974fc0afc08bd056253294691366303b58fc1a6d76fa7c6f837d3932fc049fe/
+
 
